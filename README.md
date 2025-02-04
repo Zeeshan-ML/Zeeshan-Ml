@@ -1,4 +1,4 @@
-![logo](https://github.com/Zeeshan-ML/Zeeshan-Ml/blob/main/baner.png)
+![logo](https://github.com/Zeeshan-ML/Zeeshan-Ml/blob/main/baner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
 <h3 align="center">A passionate Data Scientist</h3>
