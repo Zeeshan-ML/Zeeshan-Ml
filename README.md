@@ -60,9 +60,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-ML&theme=dark&hide_border=true" alt="GitHub Streak" style="height: 180px;flex: 1; min-width: 300px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-ML&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="height: 180px;flex: 1; min-width: 300px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Zeeshan-ML&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="height: 180px;flex: 1; min-width: 300px;">
+  <p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=zeeshan-ml&show_icons=true&locale=en&theme=dark&hide_border=true" alt="zeeshan-ml" style="height: 180px;flex: 1; min-width: 300px;" /></p>
+
 </div>
 
 ## 🤝 Connect With Me
