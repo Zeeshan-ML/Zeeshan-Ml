@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Zeeshan-ML/Zeeshan-Ml/blob/main/resize-17387621871221570886MachineLearningDeepLearningDataVisualizationGenerativeAILLMsLargeLanguageModelsNaturalLanguageProcessingNLPWebDevelopmentAIPoweredSolutionsCustomChatbotsRAGApplications.png" alt="banner" style="width: 100%; max-width: 1200px;">
+  <img src="https://github.com/Zeeshan-ML/Zeeshan-Ml/blob/main/resize-17387621871221570886MachineLearningDeepLearningDataVisualizationGenerativeAILLMsLargeLanguageModelsNaturalLanguageProcessingNLPWebDevelopmentAIPoweredSolutionsCustomChatbotsRAGApplications.png" alt="banner" style="width: 100%; max-width: 1200px; max-height: 900px;">
 </p>
 
 <h1 align="center"> 
