@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Zeeshan-ML/Zeeshan-Ml/blob/main/thumbnail.png" alt="banner" style="width: 100%; max-width: 1200px; max-height: 900px;">
+  <img src="https://github.com/Zeeshan-ML/Zeeshan-Ml/blob/main/data.jpg" alt="banner" style="width: 100%; max-width: 1200px; max-height: 900px;">
 </p>
 
 <h1 align="center"> 
